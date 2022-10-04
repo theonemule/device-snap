@@ -1,6 +1,6 @@
-name: iot-arch-demo
+name: iot-arch-device
 version: 1.0.0
-summary: Command line weather tool.
+summary: Snap for IoT Device
 description: |
   Device Simulator
 
